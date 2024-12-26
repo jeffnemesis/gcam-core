@@ -1,0 +1,3367 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<scenario>
+    <world>
+        <region name="USA">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Africa_Eastern">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Africa_Northern">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Africa_Southern">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Africa_Western">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Australia_NZ">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Brazil">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Canada">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Central America and Caribbean">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Central Asia">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="China">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="EU-12">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="EU-15">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Europe_Eastern">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Europe_Non_EU">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="European Free Trade Association">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="India">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Indonesia">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Japan">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Mexico">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Middle East">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Pakistan">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Russia">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="South Africa">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="South America_Northern">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="South America_Southern">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="South Asia">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="South Korea">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Southeast Asia">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Taiwan">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Argentina">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <region name="Colombia">
+            <policy-portfolio-standard name="BECCS CDR">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+            <policy-portfolio-standard name="BECCS CDR2">
+                <policyType>RES</policyType>
+                <output-unit>Million tonnes</output-unit>
+                <market>global</market>
+                <price-unit>1975$/kg</price-unit>
+                <min-price year="1975">0</min-price>
+                <min-price year="1990">0</min-price>
+                <min-price year="2005">0</min-price>
+                <min-price year="2015">0</min-price>
+                <min-price fillout="1" year="2020">0</min-price>
+            </policy-portfolio-standard>
+        </region>
+        <global-technology-database>
+            <location-info sector-name="H2 central production" subsector-name="biomass">
+                <technology name="biomass to H2 CCS">
+                    <period year="2020">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>53.7554417817405</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-53.7554417817405</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2025">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>53.7554417817405</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-53.7554417817405</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2030">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>53.0784163762087</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-53.0784163762087</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2035">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>52.1225618370617</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-52.1225618370617</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2040">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>51.7404406303392</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-51.7404406303392</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2045">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>51.2125054819453</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-51.2125054819453</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2050">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>51.1511865756148</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-51.1511865756148</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2055">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>51.067905114839</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-51.067905114839</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2060">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>50.9595584201457</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-50.9595584201457</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2065">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>50.7449315970753</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-50.7449315970753</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2070">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>50.18147015806</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-50.18147015806</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2075">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>48.946961562706</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-48.946961562706</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2080">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>47.9797989823407</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-47.9797989823407</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2085">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>46.3972786325589</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-46.3972786325589</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2090">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>46.0886513149127</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-46.0886513149127</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2095">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>45.7464018421328</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-45.7464018421328</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2100">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>45.3646580888324</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-45.3646580888324</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="refining" subsector-name="biomass liquids">
+                <technology name="cellulosic ethanol CCS level 1">
+                    <period year="2020">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>7.5842119797254</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-7.5842119797254</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2025">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>7.5842119797254</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-7.5842119797254</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2030">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>7.5113814887986</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-7.5113814887986</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2035">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>7.44254067152491</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-7.44254067152491</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2040">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>7.40763358668784</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-7.40763358668784</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2045">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>7.34699681478658</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-7.34699681478658</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2050">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>7.29147935606032</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-7.29147935606032</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2055">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>7.23610105840991</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-7.23610105840991</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2060">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>7.17859272665899</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-7.17859272665899</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2065">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>7.09628909844018</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-7.09628909844018</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2070">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>6.98500707508639</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-6.98500707508639</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2075">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>6.827137917513</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-6.827137917513</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2080">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>6.64456207978255</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-6.64456207978255</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2085">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>6.48886915125092</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-6.48886915125092</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2090">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>6.37329609904785</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-6.37329609904785</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2095">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>6.28208622369125</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-6.28208622369125</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2100">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>6.19993961335456</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-6.19993961335456</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                </technology>
+                <technology name="cellulosic ethanol CCS level 2">
+                    <period year="2020">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>28.7965500692906</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-28.7965500692906</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2025">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>28.7965500692906</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-28.7965500692906</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2030">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>28.5069886069358</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-28.5069886069358</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2035">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>28.1775630219798</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-28.1775630219798</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2040">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>28.0033138822041</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-28.0033138822041</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2045">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>27.6195874941557</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-27.6195874941557</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2050">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>27.4462625011907</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-27.4462625011907</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2055">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>27.3291096690723</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-27.3291096690723</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2060">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>27.2047110326158</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-27.2047110326158</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2065">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>27.0236975726847</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-27.0236975726847</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2070">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>26.7709500845166</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-26.7709500845166</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2075">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>26.3378215546093</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-26.3378215546093</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2080">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.6582098059485</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.6582098059485</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2085">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>24.9550275389809</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-24.9550275389809</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2090">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>24.4327346935365</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-24.4327346935365</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2095">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>24.0693070223582</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-24.0693070223582</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2100">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>23.7686809248737</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-23.7686809248737</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                </technology>
+                <technology name="FT biofuels CCS level 1">
+                    <period year="2020">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>22.1124416175497</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-22.1124416175497</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2025">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>22.1124416175497</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-22.1124416175497</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2030">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>21.921236177745</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-21.921236177745</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2035">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>21.7061198135832</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-21.7061198135832</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2040">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>21.5804357064368</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-21.5804357064368</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2045">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>21.3273732707791</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-21.3273732707791</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2050">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>21.2014392586176</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-21.2014392586176</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2055">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>21.1126294502362</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-21.1126294502362</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2060">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>21.0217705276295</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-21.0217705276295</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2065">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>20.8931385833957</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-20.8931385833957</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2070">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>20.7151211692575</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-20.7151211692575</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2075">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>20.412302839825</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-20.412302839825</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2080">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>19.9657445506661</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-19.9657445506661</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2085">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>19.5241084393674</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-19.5241084393674</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2090">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>19.1975516826245</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-19.1975516826245</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2095">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>18.9630308966978</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-18.9630308966978</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2100">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>18.7655150565684</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-18.7655150565684</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                </technology>
+                <technology name="FT biofuels CCS level 2">
+                    <period year="2020">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>26.6942183113029</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-26.6942183113029</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2025">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>26.6942183113029</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-26.6942183113029</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2030">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>26.4691810624558</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-26.4691810624558</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2035">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>26.2110071132363</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-26.2110071132363</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2040">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>26.0622344417568</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-26.0622344417568</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2045">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.7536928291619</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.7536928291619</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2050">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.6127491832218</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.6127491832218</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2055">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.5191666118185</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.5191666118185</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2060">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.4242942453038</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.4242942453038</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2065">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.2885650698275</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.2885650698275</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2070">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.0974091109046</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.0974091109046</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2075">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>24.7603605664347</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-24.7603605664347</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2080">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>24.2371462239806</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-24.2371462239806</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2085">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>23.7025211077087</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-23.7025211077087</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2090">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>23.3075413288577</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-23.3075413288577</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2095">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>23.0318012816311</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-23.0318012816311</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2100">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>22.8034899772694</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-22.8034899772694</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="alumina" subsector-name="biomass">
+                <technology name="biomass CCS">
+                    <period year="2020">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>0.103500077521129</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-0.103500077521129</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2025">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>0.103500077521129</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-0.103500077521129</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2030">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>0.103500096562228</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-0.103500096562228</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2035">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>0.10349993646038</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-0.10349993646038</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2040">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>0.10350003120883</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-0.10350003120883</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2045">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>0.103499984379246</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-0.103499984379246</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2050">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>0.103500032709587</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-0.103500032709587</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2055">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>0.103500018311996</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-0.103500018311996</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2060">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>0.103499990564445</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-0.103499990564445</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2065">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>0.103499997813116</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-0.103499997813116</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2070">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>0.103500040127771</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-0.103500040127771</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2075">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>0.103500028469637</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-0.103500028469637</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2080">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>0.103499955666319</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-0.103499955666319</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2085">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>0.103499990698402</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-0.103499990698402</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2090">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>0.103500020848205</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-0.103500020848205</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2095">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>0.103500000762649</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-0.103500000762649</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2100">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>0.103500014676102</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-0.103500014676102</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="chemical energy use" subsector-name="biomass">
+                <technology name="biomass CCS">
+                    <period year="2020">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.9073665713139</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.9073665713139</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2025">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.9073665713139</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.9073665713139</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2030">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.8260389512806</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.8260389512806</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2035">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.7686664851119</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.7686664851119</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2040">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.7374568881533</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.7374568881533</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2045">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.7148391321514</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.7148391321514</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2050">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.6941744473835</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.6941744473835</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2055">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.6636331649172</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.6636331649172</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2060">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.6138893384368</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.6138893384368</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2065">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.5450349733918</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.5450349733918</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2070">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.4649350802327</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.4649350802327</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2075">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.3797865380847</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.3797865380847</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2080">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.2972758352405</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.2972758352405</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2085">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.2200602967642</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.2200602967642</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2090">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.1584735575135</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.1584735575135</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2095">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.1024552770441</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.1024552770441</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2100">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>25.0616265382431</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-25.0616265382431</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="elec_biomass (conv CCS)" subsector-name="biomass (conv CCS)">
+                <technology name="biomass (conv CCS) (once through)">
+                    <period year="2020">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>83.8135754575946</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-83.8135754575946</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2025">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>83.8135754575946</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-83.8135754575946</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2030">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>79.7149784862012</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-79.7149784862012</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2035">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>77.0137591055055</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-77.0137591055055</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2040">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>76.4344096301084</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-76.4344096301084</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2045">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>75.4799133437451</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-75.4799133437451</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2050">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>74.5331142321496</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-74.5331142321496</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2055">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>73.6859412959503</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-73.6859412959503</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2060">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>72.9703689013228</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-72.9703689013228</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2065">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>72.3156984185497</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-72.3156984185497</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2070">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>71.7573731387861</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-71.7573731387861</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2075">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>71.1802863681061</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-71.1802863681061</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2080">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>70.6003298280411</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-70.6003298280411</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2085">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>69.5935167725461</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-69.5935167725461</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2090">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>68.0529366744409</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-68.0529366744409</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2095">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>65.4788922188058</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-65.4788922188058</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2100">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>64.4972557550771</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-64.4972557550771</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                </technology>
+                <technology name="biomass (conv CCS) (seawater)">
+                    <period year="2020">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>83.8135805973579</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-83.8135805973579</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2025">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>83.8135805973579</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-83.8135805973579</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2030">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>80.7043815923637</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-80.7043815923637</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2035">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>78.4342306358354</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-78.4342306358354</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2040">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>77.0953336019686</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-77.0953336019686</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2045">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>75.4892663677695</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-75.4892663677695</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2050">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>74.8192698277663</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-74.8192698277663</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2055">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>74.2702729930882</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-74.2702729930882</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2060">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>73.8184815650117</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-73.8184815650117</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2065">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>73.4018150200659</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-73.4018150200659</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2070">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>73.0355439826414</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-73.0355439826414</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2075">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>72.5920650312764</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-72.5920650312764</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2080">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>72.1206527041397</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-72.1206527041397</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2085">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>70.5708685265095</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-70.5708685265095</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2090">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>68.9598184534822</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-68.9598184534822</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2095">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>66.9626361523779</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-66.9626361523779</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2100">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>65.3359762731029</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-65.3359762731029</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                </technology>
+                <technology name="biomass (conv CCS) (recirculating)">
+                    <period year="2020">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>83.8135096949458</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-83.8135096949458</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2025">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>83.8135096949458</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-83.8135096949458</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2030">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>80.7181547767541</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-80.7181547767541</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2035">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>77.8515778813332</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-77.8515778813332</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2040">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>76.5442372446251</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-76.5442372446251</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2045">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>75.1575255417242</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-75.1575255417242</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2050">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>74.3797100060862</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-74.3797100060862</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2055">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>73.8015205720525</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-73.8015205720525</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2060">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>73.3323410223631</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-73.3323410223631</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2065">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>72.8891337766688</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-72.8891337766688</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2070">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>72.4857955322348</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-72.4857955322348</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2075">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>72.0133965558862</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-72.0133965558862</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2080">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>71.5230121776629</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-71.5230121776629</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2085">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>70.2328193906224</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-70.2328193906224</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2090">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>68.9291709024116</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-68.9291709024116</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2095">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>66.7170627756539</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-66.7170627756539</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2100">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>65.0925103137508</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-65.0925103137508</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                </technology>
+                <technology name="biomass (conv CCS) (dry cooling)">
+                    <period year="2020">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>88.2248717654651</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-88.2248717654651</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2025">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>88.2248717654651</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-88.2248717654651</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2030">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>83.9298693669331</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-83.9298693669331</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2035">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>81.1125857713675</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-81.1125857713675</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2040">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>80.2316317345991</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-80.2316317345991</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2045">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>78.8439866071493</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-78.8439866071493</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2050">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>77.8869138490922</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-77.8869138490922</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2055">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>77.0968205260126</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-77.0968205260126</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2060">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>76.4347971552553</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-76.4347971552553</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2065">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>75.7953426662033</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-75.7953426662033</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2070">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>75.2143664464649</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-75.2143664464649</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2075">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>74.5840329135123</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-74.5840329135123</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2080">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>73.9525359383606</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-73.9525359383606</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2085">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>72.9519029411803</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-72.9519029411803</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2090">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>71.4540784243691</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-71.4540784243691</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2095">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>69.0494339401688</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-69.0494339401688</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2100">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>67.9069791482336</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-67.9069791482336</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                </technology>
+            </location-info>
+            <location-info sector-name="elec_biomass (IGCC CCS)" subsector-name="biomass (IGCC CCS)">
+                <technology name="biomass (IGCC CCS) (once through)">
+                    <period year="2020">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>62.9935787809361</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-62.9935787809361</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2025">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>62.9935787809361</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-62.9935787809361</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2030">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>61.2835749385685</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-61.2835749385685</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2035">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>58.0139910430362</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-58.0139910430362</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2040">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>56.9311168691978</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-56.9311168691978</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2045">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>55.7434111212985</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-55.7434111212985</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2050">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>54.7228049166666</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-54.7228049166666</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2055">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>53.7580220382208</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-53.7580220382208</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2060">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>53.0212327937885</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-53.0212327937885</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2065">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>52.4133867279294</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-52.4133867279294</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2070">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>51.8563735960883</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-51.8563735960883</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2075">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>51.3740566814502</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-51.3740566814502</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2080">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>50.9364664211706</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-50.9364664211706</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2085">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>50.4212822576297</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-50.4212822576297</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2090">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>50.0458014713325</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-50.0458014713325</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2095">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>49.5018829047692</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-49.5018829047692</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2100">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>49.1168779227902</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-49.1168779227902</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                </technology>
+                <technology name="biomass (IGCC CCS) (seawater)">
+                    <period year="2020">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>62.9936597311971</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-62.9936597311971</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2025">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>62.9936597311971</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-62.9936597311971</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2030">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>60.6585006518077</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-60.6585006518077</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2035">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>58.8688721895712</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-58.8688721895712</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2040">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>57.4701317974212</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-57.4701317974212</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2045">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>55.9487064753364</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-55.9487064753364</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2050">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>55.280300364314</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-55.280300364314</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2055">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>54.6188960922584</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-54.6188960922584</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2060">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>53.9980979765444</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-53.9980979765444</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2065">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>53.4081524901082</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-53.4081524901082</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2070">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>52.8197792328324</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-52.8197792328324</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2075">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>52.2480321104315</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-52.2480321104315</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2080">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>51.7854713853291</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-51.7854713853291</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2085">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>51.0706194893744</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-51.0706194893744</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2090">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>50.4022953292997</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-50.4022953292997</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2095">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>49.7533915557011</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-49.7533915557011</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2100">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>49.2283749770755</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-49.2283749770755</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                </technology>
+                <technology name="biomass (IGCC CCS) (recirculating)">
+                    <period year="2020">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>62.9936806132563</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-62.9936806132563</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2025">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>62.9936806132563</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-62.9936806132563</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2030">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>60.6629597320179</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-60.6629597320179</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2035">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>58.6391676433364</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-58.6391676433364</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2040">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>57.4071468361642</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-57.4071468361642</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2045">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>56.0012133701719</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-56.0012133701719</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2050">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>55.0998180969612</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-55.0998180969612</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2055">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>54.3400816741412</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-54.3400816741412</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2060">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>53.7343006826468</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-53.7343006826468</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2065">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>53.1918913237574</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-53.1918913237574</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2070">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>52.6628102832129</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-52.6628102832129</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2075">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>52.1468210057766</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-52.1468210057766</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2080">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>51.6834277180407</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-51.6834277180407</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2085">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>51.0173151749585</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-51.0173151749585</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2090">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>50.4186314042139</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-50.4186314042139</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2095">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>49.7458072379204</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-49.7458072379204</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2100">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>49.269916721349</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-49.269916721349</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                </technology>
+                <technology name="biomass (IGCC CCS) (dry cooling)">
+                    <period year="2020">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>66.3090612770822</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-66.3090612770822</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2025">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>66.3090612770822</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-66.3090612770822</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2030">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>63.608726891515</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-63.608726891515</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2035">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>61.6189827620027</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-61.6189827620027</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2040">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>60.0473127146305</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-60.0473127146305</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2045">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>58.2043548865433</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-58.2043548865433</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2050">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>57.027804781304</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-57.027804781304</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2055">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>55.9748905302972</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-55.9748905302972</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2060">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>55.2872327434409</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-55.2872327434409</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2065">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>54.7605108271938</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-54.7605108271938</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2070">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>54.2927992762371</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-54.2927992762371</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2075">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>53.8533509234863</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-53.8533509234863</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2080">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>53.4572180127335</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-53.4572180127335</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2085">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>52.9491739367914</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-52.9491739367914</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2090">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>52.4984500910333</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-52.4984500910333</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2095">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>52.036021216643</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-52.036021216643</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                    <period year="2100">
+                        <res-secondary-output name="BECCS CDR">
+                            <output-ratio>51.7164302814542</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                        <res-secondary-output name="BECCS CDR2">
+                            <output-ratio>-51.7164302814542</output-ratio>
+                            <pMultiplier>0</pMultiplier>
+                        </res-secondary-output>
+                    </period>
+                </technology>
+            </location-info>
+        </global-technology-database>
+    </world>
+</scenario>
